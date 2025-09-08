@@ -37,8 +37,8 @@ const projects = [
       "Full-featured e-commerce platform with user authentication and payment processing.",
     image: "/projects/ShopEase.jpg",
     tags: ["TypeScript", "TailwindCSS", "React", "Node.js"],
-    demoUrl: "https://portfolio-chi-roan-48.vercel.app/",
-    githubUrl: "https://github.com/kartikkes02/FUTURE_FS_01",
+    demoUrl: "https://shop-ease-self-omega.vercel.app/",
+    githubUrl: "https://github.com/kartikkes02/FUTURE_FS_02",
   }
 ];
 
