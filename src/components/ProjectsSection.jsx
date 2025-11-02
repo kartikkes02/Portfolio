@@ -39,6 +39,16 @@ const projects = [
     tags: ["TypeScript", "TailwindCSS", "React", "Node.js"],
     demoUrl: "https://shop-ease-self-omega.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/FUTURE_FS_02",
+  },
+  {
+    id: 5,
+    title: "Drone-Delivery-Optimizer",
+    description:
+      "Drone-Delivery-Optimizer: Solving the Traveling Salesman Problem (TSP) with Approximation.",
+    image: "/projects/ShopEase.jpg",
+    tags: ["HTML", "CSS", "Javascript"],
+    demoUrl: "https://drone-delivery-optimizer.vercel.app/",
+    githubUrl: "https://github.com/kartikkes02/Drone-Delivery-Optimizer",
   }
 ];
 
