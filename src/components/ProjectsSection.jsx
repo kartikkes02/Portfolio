@@ -54,7 +54,7 @@ const projects = [
     id: 6,
     title: "CPU-Scheduler-Simulator",
     description:
-      "Drone-Delivery-Optimizer: Solving the Traveling Salesman Problem (TSP) with Approximation.",
+      "CPU-Scheduler-Simulator, is a software project designed to simulate and visualize how a computer's operating system manages and allocates the Central Processing Unit (CPU) to various processes..",
     image: "/projects/project5.png",
     tags: ["HTML", "CSS", "Javascript"],
     demoUrl: "https://drone-delivery-optimizer.vercel.app/",
