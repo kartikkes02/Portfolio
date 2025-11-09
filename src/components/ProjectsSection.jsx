@@ -49,6 +49,16 @@ const projects = [
     tags: ["HTML", "CSS", "Javascript"],
     demoUrl: "https://drone-delivery-optimizer.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/Drone-Delivery-Optimizer",
+  },
+  {
+    id: 6,
+    title: "Drone-Delivery-Optimizer",
+    description:
+      "Drone-Delivery-Optimizer: Solving the Traveling Salesman Problem (TSP) with Approximation.",
+    image: "/projects/project5.png",
+    tags: ["HTML", "CSS", "Javascript"],
+    demoUrl: "https://drone-delivery-optimizer.vercel.app/",
+    githubUrl: "https://github.com/kartikkes02/Drone-Delivery-Optimizer",
   }
 ];
 
