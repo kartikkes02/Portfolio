@@ -52,7 +52,7 @@ const projects = [
   },
   {
     id: 6,
-    title: "Drone-Delivery-Optimizer",
+    title: "CPU-Scheduler-Simulator",
     description:
       "Drone-Delivery-Optimizer: Solving the Traveling Salesman Problem (TSP) with Approximation.",
     image: "/projects/project5.png",
