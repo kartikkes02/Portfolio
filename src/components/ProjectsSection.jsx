@@ -57,7 +57,7 @@ const projects = [
       "CPU-Scheduler-Simulator, is a software project designed to simulate and visualize how a computer's operating system manages and allocates the Central Processing Unit (CPU) to various processes..",
     image: "/projects/CPU_Scheduling_Simulator.png",
     tags: ["ReactJS", "Vite"],
-    demoUrl: "https://drone-delivery-optimizer.vercel.app/",
+    demoUrl: "https://cpu-scheduler-simulator-sage.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/cpu-scheduler-simulator",
   }
 ];
