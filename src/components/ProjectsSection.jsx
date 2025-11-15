@@ -20,16 +20,16 @@ const projects = [
     demoUrl: "https://kartikkes02.github.io/ATM/",
     githubUrl: "https://github.com/kartikkes02/ATM",
   },
-  {
-    id: 3,
-    title: "Simon-Say Game",
-    description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project4.webp", 
-    tags: ["HTML", "CSS", "JavaScrip"],
-    demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
-    githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
-  },
+  // {
+  //   id: 3,
+  //   title: "Simon-Say Game",
+  //   description:
+  //     "Interactive analytics dashboard with data visualization and filtering capabilities.",
+  //   image: "/projects/project4.webp", 
+  //   tags: ["HTML", "CSS", "JavaScrip"],
+  //   demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
+  //   githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
+  // },
   {
     id: 4,
     title: "E-Commerce Platform",
