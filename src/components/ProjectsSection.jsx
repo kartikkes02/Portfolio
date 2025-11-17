@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: " Natural Language to Code Converter",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "A simple Streamlit app that converts natural language commands into Python code using rule-based parsing.",
     image: "/projects/project4.webp", 
     tags: ["HTML", "CSS", "JavaScrip"],
     demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
