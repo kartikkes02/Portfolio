@@ -22,7 +22,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "Simon-Say Game",
+    title: " Natural Language to Code Converter",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "/projects/project4.webp", 
