@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: "ATM Simulator 💰",
     description:
-      "A simple Streamlit app that converts natural language commands into Python code using rule-based parsing.",
+      "A web-based ATM simulator with banking transactions, currency exchange, and transaction history tracking.",
     image: "/projects/project4.webp", 
     tags: ["Python"],
     demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
