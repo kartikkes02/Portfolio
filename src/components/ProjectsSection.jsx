@@ -26,7 +26,7 @@ const projects = [
     description:
       "A simple Streamlit app that converts natural language commands into Python code using rule-based parsing.",
     image: "/projects/project4.webp", 
-    tags: ["HTML", "CSS", "JavaScrip"],
+    tags: ["Python"],
     demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
     githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
   },
