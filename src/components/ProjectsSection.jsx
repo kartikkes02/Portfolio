@@ -22,7 +22,7 @@ const projects = [
   },
   {
     id: 3,
-    title: " Natural Language to Code Converter",
+    title: "ATM Simulator 💰",
     description:
       "A simple Streamlit app that converts natural language commands into Python code using rule-based parsing.",
     image: "/projects/project4.webp", 
