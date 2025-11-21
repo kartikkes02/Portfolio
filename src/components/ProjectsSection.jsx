@@ -24,7 +24,7 @@ const projects = [
     id: 3,
     title: "Simon Say Game",
     description:
-      "A web-based ATM simulator with banking transactions, currency exchange, and transaction history tracking.",
+      "A classic memory challenge game built with HTML, CSS, and JavaScript.",
     image: "/projects/project4.webp", 
     tags: ["Python"],
     demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
