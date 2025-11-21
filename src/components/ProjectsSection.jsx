@@ -22,7 +22,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "ATM Simulator 💰",
+    title: "Simon Say Game",
     description:
       "A web-based ATM simulator with banking transactions, currency exchange, and transaction history tracking.",
     image: "/projects/project4.webp", 
