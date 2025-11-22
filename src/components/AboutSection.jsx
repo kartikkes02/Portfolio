@@ -35,7 +35,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="./_Kartikeya_Kesarwani.pdf" download="./_Kartikeya_Kesarwani.pdf"
+                href="./Kartikeya_Kesarwani_Resume.pdf" download="./Kartikeya_Kesarwani_Resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
