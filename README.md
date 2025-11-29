@@ -3,7 +3,7 @@
  
 ![Portfolio Preview](./public/Screenshot_2025-07-15-16-19-52-13_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
-A modern, high-performance portfolio website built with Next.js, showcasing my skills, projects, and professional journey.
+A modern, high-performance portfolio website built with React.js, showcasing my skills, projects, and professional journey.
 
 ## 🔗 Live Demo
 [![Visit Website](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/)
