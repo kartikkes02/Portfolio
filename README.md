@@ -9,7 +9,7 @@ A modern, high-performance portfolio website built with React.js, showcasing my 
 [![Visit Website](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-lhdpvc1y8-kartikeyas-projects-63551f09.vercel.app/)
 
 ## ✨ Key Features
-- ⚡ **React.js** with App Router for optimal performance
+- ⚡ **React.js**: Component-based UI development.
 - 🎨 **Tailwind CSS** for utility-first styling
 - 🌓 **Dark/Light Mode** with system preference detection
 - ✨ **Animations** using Framer Motion
