@@ -14,7 +14,7 @@ const projects = [
     id: 2,
     title: "Service Sphere - Home Services Platform 🏠",
     description: "A beautiful landing page app using HTML,CSS and JS.",
-    image: "/projects/project1.png",
+    image: "/projects/service.png",
     tags: ["HTML", "CSS","JS", "GSAP"],
     demoUrl: "https://kartikkes02.github.io/Service_Sphere/",
     githubUrl: "https://github.com/kartikkes02/Service_Sphere",
