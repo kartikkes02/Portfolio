@@ -3,6 +3,15 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
+    title: "OpenHealth",
+    description: "Open Health is a 24×7 AI-powered voice medical assistant designed to provide instant, reliable health guidance through natural conversation.",
+    image: "/projects/project1.png",
+    tags: ["Nextjs", "TailwindCSS","TypeScript"],
+    demoUrl: "https://aiopenthealth.onrender.com/",
+    githubUrl: "https://github.com/kartikkes02/AIOpentHealth",
+  },
+  {
+    id: 1,
     title: "Service Sphere - Home Services Platform 🏠",
     description: "A beautiful landing page app using HTML,CSS and JS.",
     image: "/projects/project1.png",
