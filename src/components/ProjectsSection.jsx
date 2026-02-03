@@ -25,7 +25,7 @@ const projects = [
     description:
       "A real-time AI interview agent that enables users to practice interviews interactively using voice.",
     image: "/projects/ai_interview.png", 
-    tags: ["HTML", "CSS","JavaScript"],
+    tags: ["Nextjs", "CSS","JavaScript"],
     demoUrl: "https://ai-interview-platform-hazel.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/Ai-interview-platform",
   },
