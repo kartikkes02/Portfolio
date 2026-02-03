@@ -26,7 +26,7 @@ const projects = [
       "A real-time AI interview agent that enables users to practice interviews interactively using voice.",
     image: "/projects/ai_interview.png", 
     tags: ["HTML", "CSS","JavaScript"],
-    demoUrl: "https://kartikkes02.github.io/ATM/",
+    demoUrl: "https://ai-interview-platform-hazel.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/ATM",
   },
   {
