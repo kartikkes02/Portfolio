@@ -45,7 +45,7 @@ const projects = [
     description:
       "A classic memory challenge game built with HTML, CSS, and JavaScript.",
     image: "/projects/project4.webp", 
-    tags: ["Python"],
+    tags: ["HTML", "CSS","JavaScript"],
     demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
     githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
   },
