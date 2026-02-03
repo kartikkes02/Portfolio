@@ -21,7 +21,7 @@ const projects = [
   // },
   {
     id: 3,
-    title: "ATM Simulator 💰",
+    title: "AI Interview Platform",
     description:
       "A real-time AI interview agent that enables users to practice interviews interactively using voice.",
     image: "/projects/project2.jpg", 
