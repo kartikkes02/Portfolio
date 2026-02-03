@@ -27,7 +27,7 @@ const projects = [
     image: "/projects/ai_interview.png", 
     tags: ["HTML", "CSS","JavaScript"],
     demoUrl: "https://ai-interview-platform-hazel.vercel.app/",
-    githubUrl: "https://github.com/kartikkes02/ATM",
+    githubUrl: "https://github.com/kartikkes02/Ai-interview-platform",
   },
   {
     id: 4,
