@@ -23,7 +23,7 @@ const projects = [
     id: 3,
     title: "ATM Simulator 💰",
     description:
-      "A web-based ATM simulator with banking transactions, currency exchange, and transaction history tracking.",
+      "A real-time AI interview agent that enables users to practice interviews interactively using voice.",
     image: "/projects/project2.jpg", 
     tags: ["HTML", "CSS","JavaScript"],
     demoUrl: "https://kartikkes02.github.io/ATM/",
