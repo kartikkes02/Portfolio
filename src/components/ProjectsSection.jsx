@@ -24,7 +24,7 @@ const projects = [
     title: "AI Interview Platform",
     description:
       "A real-time AI interview agent that enables users to practice interviews interactively using voice.",
-    image: "/projects/project2.jpg", 
+    image: "/projects/ai_interview.png", 
     tags: ["HTML", "CSS","JavaScript"],
     demoUrl: "https://kartikkes02.github.io/ATM/",
     githubUrl: "https://github.com/kartikkes02/ATM",
