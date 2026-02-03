@@ -31,6 +31,16 @@ const projects = [
   },
   {
     id: 4,
+    title: "ATM Simulator 💰",
+    description:
+      "A web-based ATM simulator with banking transactions, currency exchange, and transaction history tracking.",
+    image: "/projects/project2.jpg", 
+    tags: ["HTML", "CSS","JavaScript"],
+    demoUrl: "https://kartikkes02.github.io/ATM/",
+    githubUrl: "https://github.com/kartikkes02/ATM",
+  },
+  {
+    id: 5,
     title: "Simon Say Game",
     description:
       "A classic memory challenge game built with HTML, CSS, and JavaScript.",
@@ -40,7 +50,7 @@ const projects = [
     githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
   },
   {
-    id: 5,
+    id: 6,
     title: "E-Commerce Platform",
     description:
       "Full-featured e-commerce platform with user authentication and payment processing.",
@@ -50,7 +60,7 @@ const projects = [
     githubUrl: "https://github.com/kartikkes02/FUTURE_FS_02",
   },
   {
-    id: 6,
+    id: 7,
     title: "Drone-Delivery-Optimizer",
     description:
       "Drone-Delivery-Optimizer: Solving the Traveling Salesman Problem (TSP) with Approximation.",
@@ -60,7 +70,7 @@ const projects = [
     githubUrl: "https://github.com/kartikkes02/Drone-Delivery-Optimizer",
   },
   {
-    id: 7,
+    id: 8,
     title: "CPU-Scheduler-Simulator",
     description:
       "CPU-Scheduler-Simulator, is a software project designed to simulate and visualize how a computer's operating system manages and allocates the Central Processing Unit (CPU) to various processes..",
