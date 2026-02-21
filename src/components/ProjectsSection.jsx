@@ -29,16 +29,16 @@ const projects = [
     demoUrl: "https://ai-interview-platform-hazel.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/Ai-interview-platform",
   },
-  {
-    id: 4,
-    title: "ATM Simulator 💰",
-    description:
-      "A web-based ATM simulator with banking transactions, currency exchange, and transaction history tracking.",
-    image: "/projects/project2.jpg", 
-    tags: ["HTML", "CSS","JavaScript"],
-    demoUrl: "https://kartikkes02.github.io/ATM/",
-    githubUrl: "https://github.com/kartikkes02/ATM",
-  },
+  // {
+  //   id: 4,
+  //   title: "ATM Simulator 💰",
+  //   description:
+  //     "A web-based ATM simulator with banking transactions, currency exchange, and transaction history tracking.",
+  //   image: "/projects/project2.jpg", 
+  //   tags: ["HTML", "CSS","JavaScript"],
+  //   demoUrl: "https://kartikkes02.github.io/ATM/",
+  //   githubUrl: "https://github.com/kartikkes02/ATM",
+  // },
   {
     id: 5,
     title: "Simon Say Game",
