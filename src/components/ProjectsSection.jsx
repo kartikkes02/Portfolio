@@ -39,16 +39,16 @@ const projects = [
     demoUrl: "https://kartikkes02.github.io/ATM/",
     githubUrl: "https://github.com/kartikkes02/ATM",
   },
-  {
-    id: 5,
-    title: "Simon Say Game",
-    description:
-      "A classic memory challenge game built with HTML, CSS, and JavaScript.",
-    image: "/projects/project4.webp", 
-    tags: ["HTML", "CSS","JavaScript"],
-    demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
-    githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
-  },
+  // {
+  //   id: 5,
+  //   title: "Simon Say Game",
+  //   description:
+  //     "A classic memory challenge game built with HTML, CSS, and JavaScript.",
+  //   image: "/projects/project4.webp", 
+  //   tags: ["HTML", "CSS","JavaScript"],
+  //   demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
+  //   githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
+  // },
   {
     id: 6,
     title: "E-Commerce Platform",
