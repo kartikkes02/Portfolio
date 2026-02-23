@@ -1,5 +1,4 @@
 # 💼 Kartikeya's Portfolio
-
  
 ![Portfolio Preview](./public/Screenshot_2025-07-15-16-19-52-13_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
