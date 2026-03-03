@@ -67,7 +67,7 @@ SEO Friendly: Proper meta tags and Open Graph
 Accessible: WCAG 2.1 compliant
 Modern Design: Clean, minimalist aesthetic
 
-🤝 Contributing
+
 
 
 
