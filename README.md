@@ -72,7 +72,7 @@ Modern Design: Clean, minimalist aesthetic
 Contributions are welcome! Please follow these steps:
 
 
-Create your feature branch (git checkout -b feature/AmazingFeature)
+
 
 
 📜 License
