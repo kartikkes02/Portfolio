@@ -68,7 +68,6 @@ Accessible: WCAG 2.1 compliant
 Modern Design: Clean, minimalist aesthetic
 
 
-
 📜 License
 Distributed under the MIT License. See LICENSE for more information.
 
