@@ -71,7 +71,7 @@ Modern Design: Clean, minimalist aesthetic
 
 Contributions are welcome! Please follow these steps:
 
-Fork the repository
+
 Create your feature branch (git checkout -b feature/AmazingFeature)
 
 
