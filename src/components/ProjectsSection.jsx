@@ -30,6 +30,16 @@ const projects = [
     githubUrl: "https://github.com/kartikkes02/Ai-interview-platform",
   },
   {
+    id: 6,
+    title: "E-Commerce Platform",
+    description:
+      "Full-featured e-commerce platform with user authentication and payment processing.",
+    image: "/projects/ShopEase.jpg",
+    tags: ["TypeScript", "TailwindCSS", "React", "Node.js"],
+    demoUrl: "https://shop-ease-self-omega.vercel.app/",
+    githubUrl: "https://github.com/kartikkes02/FUTURE_FS_02",
+  },
+  {
     id: 4,
     title: "ATM Simulator 💰",
     description:
@@ -49,16 +59,7 @@ const projects = [
   //   demoUrl: "https://kartikkes02.github.io/Simon-say-Game/",
   //   githubUrl: "https://github.com/kartikkes02/Simon-say-Game",
   // },
-  {
-    id: 6,
-    title: "E-Commerce Platform",
-    description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/ShopEase.jpg",
-    tags: ["TypeScript", "TailwindCSS", "React", "Node.js"],
-    demoUrl: "https://shop-ease-self-omega.vercel.app/",
-    githubUrl: "https://github.com/kartikkes02/FUTURE_FS_02",
-  },
+  
   {
     id: 7,
     title: "Drone-Delivery-Optimizer",
