@@ -49,6 +49,7 @@ const skills = [
   { name: "VS Code", level: 95, category: "tools" },
   { name: "Vercel", level: 90, category: "tools" },
   { name: "Netlify", level: 90, category: "tools" },
+  { name: "Render", level: 90, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend","database", "tools"];
