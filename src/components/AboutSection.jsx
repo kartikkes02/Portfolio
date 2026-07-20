@@ -16,7 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              Hi, I'm Kartikeya Kesarwani, a dedicated full-stack web developer with a passion for crafting interactive and visually
+              Hi, I'm Kartikeya Kesarwani, a dedicated MERN Stack Web Developer with a passion for crafting interactive and visually
               appealing web experiences. I specialize in creating responsive, accessible, and performant web
               applications using modern technologies.
             </p>
