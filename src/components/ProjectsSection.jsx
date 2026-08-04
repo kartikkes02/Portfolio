@@ -25,7 +25,7 @@ const projects = [
     id: 1,
     title: "AI-Powered Dashboard Generator",
     description: "An AI-powered BI platform that transforms plain text questions into instant SQL queries, interactive charts, and data dashboards",
-    // image: "/projects/project1.png",
+    image: "/projects/datapilot.png",
     tags: ["Nextjs", "FastAPI","PostgreSQL"],
     demoUrl: "https://datapilot-seven-flame.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/Datapilot",
