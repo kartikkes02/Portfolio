@@ -21,6 +21,15 @@ const projects = [
     demoUrl: "https://ai-interview-platform-hazel.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/Ai-interview-platform",
   },
+  // {
+  //   id: 1,
+  //   title: "OpenHealth",
+  //   description: "Open Health is a 24×7 AI-powered voice medical assistant designed to provide instant, reliable health guidance through natural conversation.",
+  //   image: "/projects/project1.png",
+  //   tags: ["Nextjs", "TailwindCSS","TypeScript"],
+  //   demoUrl: "https://aiopenthealth.onrender.com/",
+  //   githubUrl: "https://github.com/kartikkes02/AIOpentHealth",
+  // },
   {
     id: 6,
     title: "E-Commerce Platform",
