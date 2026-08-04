@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/project1.png",
     tags: ["Nextjs", "TailwindCSS","TypeScript"],
     demoUrl: "https://aiopenthealth.onrender.com/",
-    githubUrl: "https://github.com/kartikkes02/AIOpentHealth",
+    githubUrl: "https://github.com/kartikkes02/Datapilot",
   },
   {
     id: 6,
