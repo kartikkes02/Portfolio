@@ -24,7 +24,7 @@ const projects = [
   {
     id: 1,
     title: "AI-Powered Dashboard Generator",
-    description: "Open Health is a 24×7 AI-powered voice medical assistant designed to provide instant, reliable health guidance through natural conversation.",
+    description: "An AI-powered BI platform that transforms plain text questions into instant SQL queries, interactive charts, and data dashboards",
     image: "/projects/project1.png",
     tags: ["Nextjs", "TailwindCSS","TypeScript"],
     demoUrl: "https://aiopenthealth.onrender.com/",
