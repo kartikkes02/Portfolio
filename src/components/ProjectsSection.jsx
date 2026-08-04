@@ -27,7 +27,7 @@ const projects = [
     description: "An AI-powered BI platform that transforms plain text questions into instant SQL queries, interactive charts, and data dashboards",
     image: "/projects/project1.png",
     tags: ["Nextjs", "TailwindCSS","TypeScript"],
-    demoUrl: "https://aiopenthealth.onrender.com/",
+    demoUrl: "https://datapilot-seven-flame.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/Datapilot",
   },
   {
