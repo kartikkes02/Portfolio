@@ -22,6 +22,15 @@ const projects = [
     githubUrl: "https://github.com/kartikkes02/Ai-interview-platform",
   },
   {
+    id: 2,
+    title: "Service Sphere - Home Services Platform 🏠",
+    description: "A beautiful landing page app using HTML,CSS and JS.",
+    image: "/projects/service.png",
+    tags: ["HTML", "CSS","JS", "GSAP"],
+    demoUrl: "https://kartikkes02.github.io/Service_Sphere/",
+    githubUrl: "https://github.com/kartikkes02/Service_Sphere",
+  },
+  {
     id: 1,
     title: "AI-Powered Dashboard Generator",
     description: "An AI-powered BI platform that transforms plain text questions into instant SQL queries, interactive charts, and data dashboards",
