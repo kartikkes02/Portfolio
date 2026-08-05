@@ -23,7 +23,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Service Sphere - Home Services Platform 🏠",
+    title: "AI Resume Analyzer",
     description: "A beautiful landing page app using HTML,CSS and JS.",
     image: "/projects/service.png",
     tags: ["HTML", "CSS","JS", "GSAP"],
