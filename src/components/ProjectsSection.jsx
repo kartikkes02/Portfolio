@@ -24,7 +24,7 @@ const projects = [
   {
     id: 2,
     title: "AI Resume Analyzer",
-    description: "A beautiful landing page app using HTML,CSS and JS.",
+    description: "A Streamlit-based application that uses Gemini and LangChain to parse PDF resumes, analyze ATS compatibility, and extract key skills.",
     image: "/projects/service.png",
     tags: ["HTML", "CSS","JS", "GSAP"],
     demoUrl: "https://kartikkes02.github.io/Service_Sphere/",
