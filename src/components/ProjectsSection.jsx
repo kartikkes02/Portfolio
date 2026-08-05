@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/service.png",
     tags: ["Python", "Streamlit","Langchain"],
     demoUrl: "https://kartikkes02.github.io/Service_Sphere/",
-    githubUrl: "https://github.com/kartikkes02/Service_Sphere",
+    githubUrl: "https://github.com/kartikkes02/AI-Resume-Analyzer",
   },
   {
     id: 1,
