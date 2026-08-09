@@ -29,7 +29,7 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // Language
-  { name: "C", level: 90, category: "language" },
+  { name: "C", level: 95, category: "language" },
   { name: "C++", level: 90, category: "language" },
   { name: "JavaScript", level: 80, category: "language" },
   // Frontend
