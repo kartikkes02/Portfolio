@@ -48,7 +48,7 @@ const skills = [
   { name: "JavaScript", level: 80, category: "language" },
   { name: "Java", level: 80, category: "language" },
   { name: "Golang", level: 65, category: "language" },
-  { name: "Python", level: 75, category: "backend" },
+  { name: "Python", level: 75, category: "language" },
   // Tools
   { name: "Git", level: 90, category: "tools" },
   { name: "GitHub", level: 90, category: "tools" },
