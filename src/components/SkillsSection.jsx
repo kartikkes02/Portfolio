@@ -28,13 +28,7 @@ import { cn } from "@/lib/utils";
 // ];
 
 const skills = [
-  // Language
-  { name: "C", level: 95, category: "language" },
-  { name: "C++", level: 90, category: "language" },
-  { name: "JavaScript", level: 80, category: "language" },
-  { name: "Java", level: 80, category: "language" },
-  { name: "Golang", level: 65, category: "language" },
-  { name: "Python", level: 75, category: "backend" },
+  
   // Frontend
   { name: "HTML", level: 95, category: "frontend" },
   { name: "CSS", level: 90, category: "frontend" },
@@ -47,7 +41,14 @@ const skills = [
   // Database
   { name: "MongoDB", level: 65, category: "database" },
   { name: "MySQL", level: 75, category: "database" },
-  { name: "PostgreSQL", level: 60, category: "database" }, 
+  { name: "PostgreSQL", level: 60, category: "database" },
+  // Language
+  { name: "C", level: 95, category: "language" },
+  { name: "C++", level: 90, category: "language" },
+  { name: "JavaScript", level: 80, category: "language" },
+  { name: "Java", level: 80, category: "language" },
+  { name: "Golang", level: 65, category: "language" },
+  { name: "Python", level: 75, category: "backend" },
   // Tools
   { name: "Git", level: 90, category: "tools" },
   { name: "GitHub", level: 90, category: "tools" },
