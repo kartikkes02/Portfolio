@@ -52,7 +52,7 @@ const skills = [
   { name: "Render", level: 90, category: "tools" },
 ];
 
-const categories = ["all", "frontend", "backend","database", "tools"];
+const categories = ["all", "language","frontend", "backend","database", "tools"];
 
 export const SkillsSection = () => {
   const [activeCategory, setActiveCategory] = useState("all");
