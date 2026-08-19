@@ -173,7 +173,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium">Location</h4>
                   <span className="text-muted-foreground">
-                    Prayagraj, India
+                    Delhi, India
                   </span>
                 </div>
               </div>
