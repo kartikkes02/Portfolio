@@ -30,7 +30,16 @@ const projects = [
     demoUrl: "https://ai-resume-analyzer-5aqzyi7tpnx7zdhdcq5bmm.streamlit.app/",
     githubUrl: "https://github.com/kartikkes02/AI-Resume-Analyzer",
   },
-  
+  {
+    id: 3,
+    title: "AI Interview Platform",
+    description:
+      "A real-time AI interview agent that enables users to practice interviews interactively using voice.",
+    image: "/projects/ai_interview.png", 
+    tags: ["Nextjs", "Vapi Firebase","TypeScript"],
+    demoUrl: "https://ai-interview-platform-hazel.vercel.app/",
+    githubUrl: "https://github.com/kartikkes02/Ai-interview-platform",
+  },
   {
     id: 6,
     title: "E-Commerce Platform",
