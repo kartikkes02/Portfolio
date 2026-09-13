@@ -25,7 +25,7 @@ const projects = [
     id: 2,
     title: "AI Resume Analyzer",
     description: "A serverless, AI-powered resume analysis platform built with React 19 and Puter.js that parses PDF resumes in-browser to provide real-time ATS compatibility scoring and actionable feedback.",
-    image: "/projects/ai_resume_analyzer.png",
+    image: "/projects/ai-resume-analyzer.png",
     tags: ["Python", "Streamlit","Langchain"],
     demoUrl: "https://ai-resume-analyzerr-kappa.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/AI-Resume-Analyzerr",
