@@ -24,7 +24,7 @@ const projects = [
   {
     id: 2,
     title: "AI Resume Analyzer",
-    description: "A Streamlit-based application that uses Gemini and LangChain to parse PDF resumes, analyze ATS compatibility, and extract key skills.",
+    description: "A serverless, AI-powered resume analysis platform built with React 19 and Puter.js that parses PDF resumes in-browser to provide real-time ATS compatibility scoring and actionable feedback.",
     image: "/projects/ai_resume_analyzer.png",
     tags: ["Python", "Streamlit","Langchain"],
     demoUrl: "https://ai-resume-analyzerr-kappa.vercel.app/",
