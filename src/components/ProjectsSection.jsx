@@ -27,7 +27,7 @@ const projects = [
     description: "A Streamlit-based application that uses Gemini and LangChain to parse PDF resumes, analyze ATS compatibility, and extract key skills.",
     image: "/projects/ai_resume_analyzer.png",
     tags: ["Python", "Streamlit","Langchain"],
-    demoUrl: "https://ai-resume-analyzer-5aqzyi7tpnx7zdhdcq5bmm.streamlit.app/",
+    demoUrl: "https://ai-resume-analyzerr-kappa.vercel.app/",
     githubUrl: "https://github.com/kartikkes02/AI-Resume-Analyzer",
   },
   {
