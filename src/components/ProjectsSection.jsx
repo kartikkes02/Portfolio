@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/ai_resume_analyzer.png",
     tags: ["Python", "Streamlit","Langchain"],
     demoUrl: "https://ai-resume-analyzerr-kappa.vercel.app/",
-    githubUrl: "https://github.com/kartikkes02/AI-Resume-Analyzer",
+    githubUrl: "https://github.com/kartikkes02/AI-Resume-Analyzerr",
   },
   {
     id: 3,
